@@ -1,0 +1,78 @@
+body{
+    background-color: lightgrey;
+}
+
+.box{
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid yellow;
+    border-radius: 15px;
+    width: 30rem;
+}
+#one{
+    background-color: #efefef;
+}
+#two{
+    background-color: beige;
+}
+#three{
+    background-color: cornflowerblue;
+}
+#four{
+    background-color:chartreuse;
+}
+h2, p, .readme-wrapper{
+    text-align: center;
+}
+
+.readme-wrapper a{
+    text-decoration: none;
+    color: green;
+}
+.readme-wrapper a:hover{
+    font-weight: bold;
+    color: purple;
+}
+
+span{
+    font-weight: 600;
+    color: red;
+}
+.image{
+    background-color: turquoise;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: absolute;
+    left: 120px;
+}
+
+h1{
+    color: violet;
+}
+
+.original{
+    color: green;
+}
+.additional{
+    color: blue;
+}
+
+#show1{color:brown;}
+#show2{color: tomato;}
+#show3{color:cornflowerblue;}
+#show4{color:royalblue;}
+#show5{color: seagreen;}
+
+ul{
+    color: red;
+}
+.star{
+    color: blue;
+}
+#wars{
+    color: green;
+}
+.list{
+    border: 2px solid #000;
+}
